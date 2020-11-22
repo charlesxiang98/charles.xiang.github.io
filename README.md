@@ -1,4 +1,4 @@
-Hi，My name is Charles, a Software Engineer.
+Hi，My name is Charles, a Software Engineer located in New York.
 
 My Tech Stack is as follows:
 Languages & Database: JAVA 8 / J2EE, Python, Linux, SQL(MySQL), NoSQL(MongoDB), Hibernate 
