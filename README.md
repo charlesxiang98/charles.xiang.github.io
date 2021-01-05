@@ -8,7 +8,7 @@ My Tech Stack is as follows:
 
 My interests are applying recommender system knowledge and large highly scalable ecommerce website development experience into enhancing user experience and improving business conversion efficiency for companies.
 
-大家好，我是Charles,一名软件工程师。
+大家好，我是Charles,一名软件工程师，在纽约大都会区。
 我的技术栈如下：
 1. 语言及数据库， JAVA 8 / J2EE, Python, Linux, SQL(MySQL), NoSQL(MongoDB), Hibernate 
 2. 框架: Spring, Spring Boot, Restful Services, AWS, Message Queue(Kafka, RabbitMQ), Restful APIs
