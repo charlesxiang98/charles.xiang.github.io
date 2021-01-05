@@ -1,4 +1,4 @@
-Hi，My name is Charles, a Software Engineer located in New York.
+Hi，My name is Charles, a Software Engineer located in New York metropolitan area.
 
 My Tech Stack is as follows:
 1. Languages & Database: JAVA 8 / J2EE, Python, Linux, SQL(MySQL), NoSQL(MongoDB), MyBatis. 
