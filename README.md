@@ -1,7 +1,7 @@
 Hi，My name is Charles, a Software Engineer located in New York.
 
 My Tech Stack is as follows:
-1. Languages & Database: JAVA 8 / J2EE, Python, Linux, SQL(MySQL), NoSQL(MongoDB), Hibernate. 
+1. Languages & Database: JAVA 8 / J2EE, Python, Linux, SQL(MySQL), NoSQL(MongoDB), MyBatis. 
 2. Framework: Spring, Spring Boot, Spring Cloud, Restful Services, AWS, Message Queue(Kafka, RabbitMQ), Restful APIs.
 3. Development Tool & DevOps: Maven, Gradle, Eclipse, Agile(Scrum), JUnit, Git, Docker, Jenkins(CI/CD).
 4. Algorithm: Machine Learning, Recommendation Algorithm, Data Mining，Classification, regression, clustering，collaborative filtering, association mining and recall ranking.
